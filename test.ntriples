@@ -1,0 +1,418 @@
+/* triples as < subject, predicate, object > */
+
+<root, 0, id>
+<id, type, 1>
+<root, 0, name>
+<name, type, Gladyce Gleichner II>
+<root, 0, age>
+<root, 1, id>
+<id, type, 2>
+<root, 1, name>
+<name, type, Rosamond Gleason>
+<root, 1, age>
+<root, 2, id>
+<id, type, 3>
+<root, 2, name>
+<name, type, Mortimer Morissette II>
+<root, 2, age>
+<root, 3, id>
+<id, type, 4>
+<root, 3, name>
+<name, type, Providenci Kovacek PhD>
+<root, 3, age>
+<root, 4, id>
+<id, type, 5>
+<root, 4, name>
+<name, type, Nelle Bauch>
+<root, 4, age>
+<root, 5, id>
+<id, type, 6>
+<root, 5, name>
+<name, type, Agustin Bradtke>
+<root, 5, age>
+<root, 6, id>
+<id, type, 7>
+<root, 6, name>
+<name, type, Cristobal Borer>
+<root, 6, age>
+<root, 7, id>
+<id, type, 8>
+<root, 7, name>
+<name, type, Ross Herman DVM>
+<root, 7, age>
+<root, 8, id>
+<id, type, 9>
+<root, 8, name>
+<name, type, Elmira Runolfsson V>
+<root, 8, age>
+<root, 9, id>
+<id, type, 10>
+<root, 9, name>
+<name, type, Nellie Fay>
+<root, 9, age>
+<root, 10, id>
+<id, type, 11>
+<root, 10, name>
+<name, type, Larue Bins>
+<root, 10, age>
+<root, 11, id>
+<id, type, 12>
+<root, 11, name>
+<name, type, Vivienne Gleason DDS>
+<root, 11, age>
+<root, 12, id>
+<id, type, 13>
+<root, 12, name>
+<name, type, Monte Baumbach>
+<root, 12, age>
+<root, 13, id>
+<id, type, 14>
+<root, 13, name>
+<name, type, Ben Wilkinson>
+<root, 13, age>
+<root, 14, id>
+<id, type, 15>
+<root, 14, name>
+<name, type, Laury Quitzon>
+<root, 14, age>
+<root, 15, id>
+<id, type, 16>
+<root, 15, name>
+<name, type, Jadon Okuneva>
+<root, 15, age>
+<root, 16, id>
+<id, type, 17>
+<root, 16, name>
+<name, type, Marisol Skiles>
+<root, 16, age>
+<root, 17, id>
+<id, type, 18>
+<root, 17, name>
+<name, type, Adriana Parker>
+<root, 17, age>
+<root, 18, id>
+<id, type, 19>
+<root, 18, name>
+<name, type, Jaden Ondricka>
+<root, 18, age>
+<root, 19, id>
+<id, type, 20>
+<root, 19, name>
+<name, type, Isac Kessler>
+<root, 19, age>
+<root, 20, id>
+<id, type, 21>
+<root, 20, name>
+<name, type, Katherine Hansen>
+<root, 20, age>
+<root, 21, id>
+<id, type, 22>
+<root, 21, name>
+<name, type, Juanita Wintheiser Jr.>
+<root, 21, age>
+<root, 22, id>
+<id, type, 23>
+<root, 22, name>
+<name, type, Micaela Turner>
+<root, 22, age>
+<root, 23, id>
+<id, type, 24>
+<root, 23, name>
+<name, type, Jordi Schinner>
+<root, 23, age>
+<root, 24, id>
+<id, type, 25>
+<root, 24, name>
+<name, type, Deangelo Littel>
+<root, 24, age>
+<root, 25, id>
+<id, type, 26>
+<root, 25, name>
+<name, type, Dorothea Smitham>
+<root, 25, age>
+<root, 26, id>
+<id, type, 27>
+<root, 26, name>
+<name, type, Torey Glover>
+<root, 26, age>
+<root, 27, id>
+<id, type, 28>
+<root, 27, name>
+<name, type, Alyson Bode>
+<root, 27, age>
+<root, 28, id>
+<id, type, 29>
+<root, 28, name>
+<name, type, Hope O'Keefe>
+<root, 28, age>
+<root, 29, id>
+<id, type, 30>
+<root, 29, name>
+<name, type, Ezekiel Hermiston>
+<root, 29, age>
+<root, 30, id>
+<id, type, 31>
+<root, 30, name>
+<name, type, Yvonne Schuster>
+<root, 30, age>
+<root, 31, id>
+<id, type, 32>
+<root, 31, name>
+<name, type, Dewayne Volkman>
+<root, 31, age>
+<root, 32, id>
+<id, type, 33>
+<root, 32, name>
+<name, type, Veronica Stracke>
+<root, 32, age>
+<root, 33, id>
+<id, type, 34>
+<root, 33, name>
+<name, type, Casandra Waelchi>
+<root, 33, age>
+<root, 34, id>
+<id, type, 35>
+<root, 34, name>
+<name, type, Herman Quitzon>
+<root, 34, age>
+<root, 35, id>
+<id, type, 36>
+<root, 35, name>
+<name, type, Berneice Kozey>
+<root, 35, age>
+<root, 36, id>
+<id, type, 37>
+<root, 36, name>
+<name, type, Kieran Casper>
+<root, 36, age>
+<root, 37, id>
+<id, type, 38>
+<root, 37, name>
+<name, type, Stella Doyle>
+<root, 37, age>
+<root, 38, id>
+<id, type, 39>
+<root, 38, name>
+<name, type, Otto Upton>
+<root, 38, age>
+<root, 39, id>
+<id, type, 40>
+<root, 39, name>
+<name, type, Jan Ritchie>
+<root, 39, age>
+<root, 40, id>
+<id, type, 41>
+<root, 40, name>
+<name, type, Joannie Hoppe>
+<root, 40, age>
+<root, 41, id>
+<id, type, 42>
+<root, 41, name>
+<name, type, Jedediah Bruen>
+<root, 41, age>
+<root, 42, id>
+<id, type, 43>
+<root, 42, name>
+<name, type, Coy Vandervort>
+<root, 42, age>
+<root, 43, id>
+<id, type, 44>
+<root, 43, name>
+<name, type, Evelyn Crooks>
+<root, 43, age>
+<root, 44, id>
+<id, type, 45>
+<root, 44, name>
+<name, type, Sincere Lehner>
+<root, 44, age>
+<root, 45, id>
+<id, type, 46>
+<root, 45, name>
+<name, type, Alex Barton>
+<root, 45, age>
+<root, 46, id>
+<id, type, 47>
+<root, 46, name>
+<name, type, Arlo Stroman>
+<root, 46, age>
+<root, 47, id>
+<id, type, 48>
+<root, 47, name>
+<name, type, Mrs. Emelie Larkin>
+<root, 47, age>
+<root, 48, id>
+<id, type, 49>
+<root, 48, name>
+<name, type, Cloyd Stehr>
+<root, 48, age>
+<root, 49, id>
+<id, type, 50>
+<root, 49, name>
+<name, type, Margie Dickens PhD>
+<root, 49, age>
+<root, 50, id>
+<id, type, 51>
+<root, 50, name>
+<name, type, Keara Kirlin>
+<root, 50, age>
+<root, 51, id>
+<id, type, 52>
+<root, 51, name>
+<name, type, Tyrese Bartoletti Sr.>
+<root, 51, age>
+<root, 52, id>
+<id, type, 53>
+<root, 52, name>
+<name, type, Scotty Mraz>
+<root, 52, age>
+<root, 53, id>
+<id, type, 54>
+<root, 53, name>
+<name, type, Corrine Lockman>
+<root, 53, age>
+<root, 54, id>
+<id, type, 55>
+<root, 54, name>
+<name, type, Queen Glover>
+<root, 54, age>
+<root, 55, id>
+<id, type, 56>
+<root, 55, name>
+<name, type, Odessa Reinger>
+<root, 55, age>
+<root, 56, id>
+<id, type, 57>
+<root, 56, name>
+<name, type, Issac Ryan>
+<root, 56, age>
+<root, 57, id>
+<id, type, 58>
+<root, 57, name>
+<name, type, Gillian Bartoletti>
+<root, 57, age>
+<root, 58, id>
+<id, type, 59>
+<root, 58, name>
+<name, type, Jonatan D'Amore II>
+<root, 58, age>
+<root, 59, id>
+<id, type, 60>
+<root, 59, name>
+<name, type, Tyrique Kihn>
+<root, 59, age>
+<root, 60, id>
+<id, type, 61>
+<root, 60, name>
+<name, type, Maddison Pacocha>
+<root, 60, age>
+<root, 61, id>
+<id, type, 62>
+<root, 61, name>
+<name, type, Zack Sawayn>
+<root, 61, age>
+<root, 62, id>
+<id, type, 63>
+<root, 62, name>
+<name, type, Tavares Klocko>
+<root, 62, age>
+<root, 63, id>
+<id, type, 64>
+<root, 63, name>
+<name, type, Hollis Walker>
+<root, 63, age>
+<root, 64, id>
+<id, type, 65>
+<root, 64, name>
+<name, type, Stanford Dicki>
+<root, 64, age>
+<root, 65, id>
+<id, type, 66>
+<root, 65, name>
+<name, type, Kevon Adams IV>
+<root, 65, age>
+<root, 66, id>
+<id, type, 67>
+<root, 66, name>
+<name, type, Garrett Gorczany>
+<root, 66, age>
+<root, 67, id>
+<id, type, 68>
+<root, 67, name>
+<name, type, Freddie Wilderman>
+<root, 67, age>
+<root, 68, id>
+<id, type, 69>
+<root, 68, name>
+<name, type, Ezequiel Howe DDS>
+<root, 68, age>
+<root, 69, id>
+<id, type, 70>
+<root, 69, name>
+<name, type, Ignatius McDermott>
+<root, 69, age>
+<root, 70, id>
+<id, type, 71>
+<root, 70, name>
+<name, type, Ebony Fisher>
+<root, 70, age>
+<root, 71, id>
+<id, type, 72>
+<root, 71, name>
+<name, type, Vallie Veum>
+<root, 71, age>
+<root, 72, id>
+<id, type, 73>
+<root, 72, name>
+<name, type, Kelvin Lebsack>
+<root, 72, age>
+<root, 73, id>
+<id, type, 74>
+<root, 73, name>
+<name, type, Juston Conroy V>
+<root, 73, age>
+<root, 74, id>
+<id, type, 75>
+<root, 74, name>
+<name, type, Isidro Reinger>
+<root, 74, age>
+<root, 75, id>
+<id, type, 76>
+<root, 75, name>
+<name, type, Laverna Konopelski>
+<root, 75, age>
+<root, 76, id>
+<id, type, 77>
+<root, 76, name>
+<name, type, Harvey Wisoky>
+<root, 76, age>
+<root, 77, id>
+<id, type, 78>
+<root, 77, name>
+<name, type, Berry Altenwerth>
+<root, 77, age>
+<root, 78, id>
+<id, type, 79>
+<root, 78, name>
+<name, type, Reynold Moore>
+<root, 78, age>
+<root, 79, id>
+<id, type, 80>
+<root, 79, name>
+<name, type, Mr. Lonzo Hahn>
+<root, 79, age>
+<root, 80, id>
+<id, type, 81>
+<root, 80, name>
+<name, type, Frieda Brakus>
+<root, 80, age>
+<root, 81, id>
+<id, type, 82>
+<root, 81, name>
+<name, type, Finn Gleason II>
+<root, 81, age>
+<root, 82, id>
+<id, type, 83>
+<root, 82, name>
+<name, type, Allan Dietrich>
+<root, 82, age>
+
